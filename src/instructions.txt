@@ -1,0 +1,1 @@
+*** Let's set up colors for the project from the figma filessrc/instructions.txt
